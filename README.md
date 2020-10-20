@@ -1316,6 +1316,7 @@ scale(DEWP):scale(Iws)
 </tr>
 </tfoot>
 </table>
+
 -   Almost all of the variables are statistically significant.
 -   58% of the variance in log(pm2.5) is explained by the predictors.
 
